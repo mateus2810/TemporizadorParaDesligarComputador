@@ -11,4 +11,4 @@
     
 ### Interface do sistema:
 
-![alt text]()
+![alt text](https://github.com/mateus2810/TemporizadorParaDesligarComputador/blob/main/tela%20sistema.png)
